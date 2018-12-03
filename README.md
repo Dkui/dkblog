@@ -6,7 +6,7 @@
 
 ### 博客演示地址
 
-  dook.xyz
+  http://dook.xyz/
   
   欢迎大家留言讨论
 
