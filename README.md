@@ -5,9 +5,14 @@
 用以个人技能学习提升
 
 git 到本地之后 直接把
+
 /META-INF
 /WEB-INF
+
 放到同一个文件夹，然后放入 TOMCAT / webapps 下
+
 配置tomcat运行即可
 
 /src 是项目源码
+
+schema.sql 数据库文件，链接数据库直接运行sql语句
