@@ -18,7 +18,7 @@ git 到本地之后 直接把
 /WEB-INF
 ，放到同一个文件夹
 
-然后放入 TOMCAT / webapps 下
+然后放入 TOMCAT / webapps 目录下，或者直接将以上两个文件夹放入 TOMCAT / webapps /ROOT 目录下
 
 配置tomcat运行即可
 
